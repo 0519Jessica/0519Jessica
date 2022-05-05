@@ -33,7 +33,7 @@ setInterval(() => {
 }, 100);
 
 // config.css
-/.rot {
+/* .rot {
     position: absolute;
     top: -50px;
 
@@ -63,4 +63,4 @@ setInterval(() => {
 
 .fast { animation-duration: 1s; }
 .normal { animation-duration: 2s; }
-.slow { animation-duration: 3s; }/
+.slow { animation-duration: 3s; } */
